@@ -5,22 +5,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bhavybansal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="bhavybansal24" height="30" width="40" /></a>
+<a href="https://codepen.io/bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" alt="CODEPEN" height="30" width="40" /></a>
 <a href="https://dev.to/bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bhavybansal24" height="30" width="40" /></a>
-<a href="https://twitter.com/@bhavy48660496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@bhavy48660496" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavy-bansal-7368181b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bhavy-bansal-7368181b8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14975987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14975987" height="30" width="40" /></a>
+<a href="https://twitter.com/@bhavy48660496" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavy48660496" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavy-bansal-7368181b8" target="blank"><img align="center" src="https://i.ibb.co/6WcdB17/linkedin.png" alt="bhavy-bansal-7368181b8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14975987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" alt="14975987" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bhavybansal24" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhavybansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="bhavybansal" height="30" width="40" /></a>
-<a href="https://fb.com/bansal30.bhavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="bansal30.bhavy" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavybansal_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="bhavybansal_24" height="30" width="40" /></a>
+<a href="https://kaggle.com/bhavybansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="bhavybansal" height="30" width="40" /></a>
+<a href="https://fb.com/bansal30.bhavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" alt="bansal30.bhavy" height="30" width="40" /></a>
+<a href="https://instagram.com/bhavybansal_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="bhavybansal_24" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhavy_24" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavy_24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bansal1232_bhavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="bansal1232_bhavy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bansal1232_bhavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="bansal1232_bhavy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="bhavybansal24" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@bhavybansal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@bhavybansal24" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bansal1232bhavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="bansal1232bhavy" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" alt="@bhavybansal24" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bansal1232bhavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="bansal1232bhavy" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="bhavybansal24" height="30" width="40" /></a>
-<a href="https://discord.gg/rnZDSahc84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="rnZDSahc84" height="30" width="40" /></a>
+<a href="https://discord.gg/rnZDSahc84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="rnZDSahc84" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
