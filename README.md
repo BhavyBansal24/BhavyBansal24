@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavy Bansal</h1>
-I'm student in Manipal University Jaipur , Pursuing B.tech degree in DataScience & Engineering (DSE).
-You will find most of my Repositories regarding to ML/DL , Data analysis and also on compitive programming as well.
+### I'm student in Manipal University Jaipur , Pursuing B.tech degree in DataScience & Engineering (DSE).
+### You will find most of my Repositories regarding to ML/DL , Data analysis and also on compitive programming as well.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="40" /></a>
