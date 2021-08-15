@@ -2,9 +2,6 @@
 I'm student in Manipal University Jaipur , Pursuing B.tech degree in DataScience & Engineering (DSE).
 You will find most of my Repositories regarding to ML/DL , Data analysis and also on compitive programming as well.
 
-### Spotify Playing 🎧︎
-[<img src="https://novatorem-nine-kappa.vercel.app/api/spotify" alt="Spotify Now Playing" width = "350" />](https://open.spotify.com/user/7d2rzlkxoj84l5rw9fpcjyt05)
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavy-bansal-7368181b8" target="blank"><img align="center" src="https://i.ibb.co/6WcdB17/linkedin.png" alt="bhavy-bansal-7368181b8" height="30" width="40" /></a>
@@ -16,7 +13,7 @@ You will find most of my Repositories regarding to ML/DL , Data analysis and als
 <a href="https://auth.geeksforgeeks.org/user/bansal1232bhavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="bansal1232bhavy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages : </h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left">Web Development : </h3>
   <p align = "left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
