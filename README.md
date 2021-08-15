@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavy Bansal</h1>
 I'm student in Manipal University Jaipur , Pursuing B.tech degree in DataScience & Engineering (DSE).
 You will find most of my Repositories regarding to ML/DL , Data analysis and also on compitive programming as well.
-For Simplicity, I also have created repositories for Learning, where anyone can refer to notes & codes on specific topic solely created by me while my learning.
+
+### Spotify Playing 🎧︎
+<img src="https://novatorem-bhavybansal24.vercel.app/api/spotify" alt="Spotify Now Playing" width = "350" />
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="40" /></a>
