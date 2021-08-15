@@ -22,4 +22,4 @@ For Simplicity, I also have created repositories for Learning, where anyone can 
    <p align = "left"><a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
    <h3 align="left">Machine Learning : </h3>
    <p align = "left"> <a href="https://jupyter.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<img align="left" alt="bhavybansal Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavybansal24&count_private=true&show_icons=true&theme=onedark"/>
+<img align="left" alt="bhavybansal Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavybansal24&count_private=true&show_icons=true&theme=cobalt&hide_border=true"/>
