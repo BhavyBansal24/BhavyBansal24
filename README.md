@@ -3,7 +3,7 @@ I'm student in Manipal University Jaipur , Pursuing B.tech degree in DataScience
 You will find most of my Repositories regarding to ML/DL , Data analysis and also on compitive programming as well.
 
 ### Spotify Playing 🎧︎
-<img src="https://novatorem-bhavybansal24.vercel.app/api/spotify" alt="Spotify Now Playing" width = "350" />
+[<img src="https://novatorem-bhavybansal24.vercel.app/api/spotify" alt="Spotify Now Playing" width = "350" />](https://open.spotify.com/user/7d2rzlkxoj84l5rw9fpcjyt05)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="40" /></a>
