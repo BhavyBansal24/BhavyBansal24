@@ -4,7 +4,7 @@ You will find most of my Repositories regarding to ML/DL , Data analysis and als
 For Simplicity, I also have created repositories for Learning, where anyone can refer to notes & codes on specific topic solely created by me while my learning.
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="100" /></a>
+<a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavy-bansal-7368181b8" target="blank"><img align="center" src="https://i.ibb.co/6WcdB17/linkedin.png" alt="bhavy-bansal-7368181b8" height="30" width="40" /></a>
 <a href="https://instagram.com/bhavybansal_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="bhavybansal_24" height="30" width="40" /></a>
 <a href="https://discord.gg/rnZDSahc84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="rnZDSahc84" height="30" width="40" /></a>
