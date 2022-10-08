@@ -1,24 +1,74 @@
-<h1 align="center">Hi 👋, I'm Bhavy Bansal</h1>
- I'm student in Manipal University Jaipur , Pursuing B.tech degree in DataScience & Engineering (DSE).
- You will find most of my Repositories regarding to ML/DL , Data analysis and also on BlockChain Development as well.
+<!-- <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1> -->
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@BhavyBansal24" target="blank"><img align="center" src="https://i.ibb.co/LdyZzgZ/twitter-PNG1.png" alt="@bhavybansa24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavy-bansal-7368181b8" target="blank"><img align="center" src="https://i.ibb.co/6WcdB17/linkedin.png" alt="bhavy-bansal-7368181b8" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavybansal_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="bhavybansal_24" height="30" width="40" /></a>
-<a href="https://discord.gg/rnZDSahc84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="rnZDSahc84" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhavybansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="bhavybansal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhavy_24" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavy_24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhavybansal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="bhavybansal24" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bansal1232bhavy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="bansal1232bhavy" height="30" width="40" /></a>
+<img src="http://24.media.tumblr.com/0d030be9ab897bf06e11804682f1afa1/tumblr_mvkdeo6EHf1rey868o1_500.gif" width='100%'/>
+
+<br>
+
+<h3 align='center'>Welcome to my page!</h3>
+</br> 
+<p align='center'>
+I'm <b>Bhavy Bansal</b>, aspiring Data Science Engineer from <b>Neemuch, India</b>, currently studying Data Science & Engineering. I love building real life usable Deep Learning based projects.</p>
+<p align='center'>
+  I also develop ML based data-driven web-apps
 </p>
 
-<h3 align="left">Languages : </h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Web Development : </h3>
-  <p align = "left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
-  <h3 align="left">App Development : </h3>
-   <p align = "left"><a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<h3 align='center'>Things I code with</h3>
+<h4 align='center'><strong>Languages</strong></h4>
+
+
+<p align='center'>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
+
+</p>
+
+
+<h4 align='center'><strong>Data Engineering</strong></h4>
+<p align='center'>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>  
+</p>
+
+<h4 align='center'><strong>AI</strong></h4>
+<p align='center'>
+<img src="https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-D00000?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+
+<h4 align='center'><strong>Database</strong></h4>
+<p align='center'>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<h4 align='center'><strong>Backend</strong></h4>
+<p align='center'>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+<h4 align='center'><strong>DevOPs</strong></h4>
+<p align='center'>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
+
+<br>
+
+<p align="center">
+    
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=BhavyBansal24&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+<h4 align='center'><strong>Tools I use</h4>
+<p  align='center'>
+<img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
+</p>
+
+<h4 align="center"><strong>Contact Me</strong></h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/bhavybansal24/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/><a> <a href="https://medium.com/@bansal1232.bhavy" target="_blank"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/><a> <a href="https://twitter.com/BhavyBansal_24" target="_blank"><img src="https://img.shields.io/badge/twitter-26A5E4?style=for-the-badge&logo=twitter&logoColor=white"/><a> <a href="https://www.reddit.com/user/BhavyBansal24" target="_blank"><img src="https://img.shields.io/badge/reddit-FF4301?style=for-the-badge&logo=reddit&logoColor=white"/><a> <a href="https://www.instagram.com/bhavybansal_24/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+</p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=BhavyBansal24&theme=blue-green" width="100%"/>
+</p>
+<br>
    <h3 align="left">Data Science : </h3>
    <p align = "left"> <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 <img align="left" alt="bhavybansal Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavybansal24&count_private=true&show_icons=true&theme=cobalt&hide_border=true"/>
