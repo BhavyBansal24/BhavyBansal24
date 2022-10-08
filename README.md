@@ -1,5 +1,3 @@
-<!-- <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1> -->
-
 <img src="http://24.media.tumblr.com/0d030be9ab897bf06e11804682f1afa1/tumblr_mvkdeo6EHf1rey868o1_500.gif" width='100%'/>
 
 <br>
@@ -69,6 +67,3 @@ I'm <b>Bhavy Bansal</b>, aspiring Data Science Engineer from <b>Neemuch, India</
     <img src="https://github-readme-stats.vercel.app/api?username=BhavyBansal24&theme=blue-green" width="100%"/>
 </p>
 <br>
-   <h3 align="left">Data Science : </h3>
-   <p align = "left"> <a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<img align="left" alt="bhavybansal Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavybansal24&count_private=true&show_icons=true&theme=cobalt&hide_border=true"/>
