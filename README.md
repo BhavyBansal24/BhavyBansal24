@@ -1,4 +1,4 @@
-<img src="http://24.media.tumblr.com/0d030be9ab897bf06e11804682f1afa1/tumblr_mvkdeo6EHf1rey868o1_500.gif" width='100%'/>
+<!-- <img src="http://24.media.tumblr.com/0d030be9ab897bf06e11804682f1afa1/tumblr_mvkdeo6EHf1rey868o1_500.gif" width='100%'/> -->
 
 <br>
 
